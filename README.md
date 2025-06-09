@@ -20,8 +20,7 @@ This is a simple practice project created using **HTML** and **vanilla CSS**. Th
   - Hover effects and transitions
 
 ## 🖼️ Preview
-
-*(Optional: Add a screenshot or recording of your design here)*
+![Preview](preview.gif)
 
 ## 🛠️ Built With
 
